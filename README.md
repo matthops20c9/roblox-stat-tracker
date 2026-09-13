@@ -39,3 +39,5 @@ Show gathered stats in a neat terminal table, including an ASCII sparkline of ac
 ```cmd
 python tracker.py history 185655149
 ```
+
+<!-- updated: 2026-09-13 -->
